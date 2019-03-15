@@ -1,0 +1,22 @@
+.customer-table-row {
+  margin-top: 20px;
+  /* background-color: green; */
+}
+.customer-name {
+  width: 100%;
+  background-color: rgb(221, 235, 213);
+  text-align: center;
+  padding: 10px 0;
+  font-size: 20px;
+  font-weight: 600;
+}
+table {
+  width: 100%;
+  text-align: center;
+  border-radius: 0 0 5px 5px;
+}
+table, tbody, th, td {
+  border: 1px solid #ccc;
+  border-collapse: collapse;
+  padding: 10px 20px;
+}

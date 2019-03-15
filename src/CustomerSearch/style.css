@@ -1,0 +1,16 @@
+.customer-search-wrapper {
+  width: 1040px;
+  margin: 30px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+}
+.customer-search-wrapper h1 {
+  text-align: center;
+}
+.customer-search-wrapper input {
+  width: calc(100% - 18px);
+  line-height: 25px;
+  border-radius: 5px;
+  padding-left: 12px;
+}
